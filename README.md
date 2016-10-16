@@ -7,7 +7,8 @@ Varianty:
 
 **A_hug.png - "PHP Sloní Hug"**
   - nemá tolik podrobností, asi by šlo použít jako logo
-A_hug_phpckari.png - "Sloní Hug Péhapkaři"
+  
+**A_hug_phpckari.png - "Sloní Hug Péhapkaři"**
   - jako předchozí, ale s nápisem Péhapkaři. Podle mě ten nápis nevypadá moc dobře na slonovi, protože je dlouhý. Ale nenapadlo mě kam ho dát.
     
 **B_01_tabule.png -  "U tabule (Story - 1. část)"**
