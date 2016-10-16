@@ -16,10 +16,12 @@
    inkscape:label="Pozadí"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="X_elephpant.svg"
-   inkscape:export-filename="D:\Dropbox\jpexs-laptop\phpkomunita\X_elephpant.png"
+   sodipodi:docname="elephpant.svg"
+   inkscape:export-filename="elephpant.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
+  <title
+     id="title3040">Elephpant</title>
   <defs
      id="defs3">
     <linearGradient
@@ -52,7 +54,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="684.53855"
+     inkscape:cx="372.40142"
      inkscape:cy="350.31644"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -70,7 +72,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Elephpant</dc:title>
+        <dc:date>16.10.2016</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jindra Petřík (Vectorized from PNG)</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
     </rdf:RDF>
   </metadata>
