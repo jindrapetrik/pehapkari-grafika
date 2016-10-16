@@ -2,6 +2,8 @@ Grafika pro Péhápkaře
 ================
 Loga a přidružená grafika pro PHP komunitu Péhápkaři.
 
+<img src="rendered/A/A_hug.png" width="300">
+
 Varianty:
 ----------------
 
