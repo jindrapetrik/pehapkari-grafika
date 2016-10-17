@@ -2,6 +2,8 @@ Grafika pro Péhápkaře
 ================
 Loga a přidružená grafika pro PHP komunitu Péhápkaři.
 
+<img src="rendered/A/A_hug.png" width="300">
+
 Varianty:
 ----------------
 
@@ -62,7 +64,7 @@ Další poznámky:
  Jindra Petřík
  
  [A_hug.png]: rendered/A/A_hug.png
- [A_hug_phpckari.png]: rendered/A/A_hug_phpckari.png
+ [A_hug_pehapkari.png]: rendered/A/A_hug_pehapkari.png
  [B_01_tabule.png]: rendered/B/B_01_tabule.png
  [B_02_plaz_zapad_slunce.png]: rendered/B/B_02_plaz_zapad_slunce.png
  [B_03_plaz_noc_NSFW.png]: rendered/B/B_03_plaz_noc_NSFW.png
